@@ -16,9 +16,7 @@ O experimento foi projetado para que o estudante:
   - Elétron (q = −1e)  
   - Partícula α (q = +2e)
 - Relacione **trabalho do campo elétrico** com **variação de energia potencial e cinética**:  
-  \[
-  W = -\Delta U = \Delta K
-  \]
+  **W = −ΔU = ΔK**
 
 Os conceitos seguem de perto o capítulo de **Potencial Elétrico** do livro‑texto (energia potencial, forças conservativas, campo uniforme, superfícies equipotenciais etc.).
 
@@ -43,20 +41,18 @@ Ao iniciar o experimento:
 
 Para o ponto selecionado, o painel mostra:
 
-- Potencial elétrico \(V\)  
-- Energia potencial \(U = qV\)  
-- Energia cinética \(K\)  
-- Energia mecânica total \(K + U\) (conservada)  
-- Trabalho do campo entre dois pontos consecutivos  
-  \[
-  W = -\Delta U \quad\text{e}\quad W \approx \Delta K
-  \]
+- Potencial elétrico **V**  
+- Energia potencial **U = qV**  
+- Energia cinética **K**  
+- Energia mecânica total **K + U** (conservada)  
+- Trabalho do campo entre dois pontos consecutivos:  
+  **W = −ΔU** e verificação **W ≈ ΔK**
 
 Barras gráficas indicam a distribuição entre:
 
-- \(K\)  
-- \(|U|\)  
-- \(K + U\)
+- K  
+- |U|  
+- K + U
 
 ### 4. Exploração e pontuação
 
@@ -69,7 +65,7 @@ Barras gráficas indicam a distribuição entre:
 
 Para cada partícula há perguntas sobre:
 
-- Sinais de \(\Delta U\), \(W\) e \(\Delta K\)  
+- Sinais de **ΔU**, **W** e **ΔK**  
 - Sentido da força elétrica  
 - Comparação entre partículas (especialmente α vs próton)
 
@@ -114,25 +110,17 @@ Com **VS Code + Live Server**:
 
 ## 🔍 Conceitos físicos trabalhados
 
-- Energia potencial elétrica em campo uniforme  
-  \[
-  U = qEy
-  \]
+- Energia potencial elétrica em campo uniforme:  
+  **U = qEy**
 
-- Trabalho da força elétrica  
-  \[
-  W_{a\to b} = -\Delta U = U_a - U_b
-  \]
+- Trabalho da força elétrica:  
+  **Wₐ→ᵦ = −ΔU = Uₐ − Uᵦ**
 
-- Teorema trabalho–energia  
-  \[
-  K_a + U_a = K_b + U_b
-  \]
+- Teorema trabalho–energia:  
+  **Kₐ + Uₐ = Kᵦ + Uᵦ**
 
-- Relação entre carga, potencial e energia potencial  
-  \[
-  U = qV
-  \]
+- Relação entre carga, potencial e energia potencial:  
+  **U = qV**
 
 - Diferenças entre cargas positivas e negativas:
   - Carga positiva “cai” no sentido do campo (U diminui, K aumenta).  
